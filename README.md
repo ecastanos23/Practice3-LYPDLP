@@ -67,6 +67,9 @@ Detecta y reporta movimientos inválidos con mensajes descriptivos.
 3. El programa mostrará:
    - Errores de sintaxis (si existen)
    - Árbol binario interactivo de la partida válida
+
+![image](https://github.com/user-attachments/assets/578cdd2a-6c32-4d37-b330-9370dab7fd08)
+
   
 ## Equipo 
 - Estudiante 1: Emmanuel Castaño Sepúlveda.
