@@ -4,6 +4,10 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                             QGraphicsView, QGraphicsScene, QGraphicsTextItem)
 from PyQt5.QtCore import Qt, QRectF
 from PyQt5.QtGui import QFont, QBrush, QColor, QPainter, QPen
+
+from chess_parser import ChessGame
+from chess_tree import ChessTreeVisualizer
+
 #Abre la ventana dela aplicación
 class MainWindow(QMainWindow):
    
