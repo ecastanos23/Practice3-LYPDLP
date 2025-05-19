@@ -3,7 +3,7 @@
 # Análisis sintáctico del juego de Ajedrez con visualización de turnos a través de árbol binario. 
 
 ## Vista de la práctica 
-Este proyecto implementa un programa en Python que valida sintácticamente partidas de ajedrez escritas en Notación Algebraica Estándar (SAN) y las represente visualmente como un árbol binario de jugadas por turnos.
+Este proyecto implementa un programa en Python que valida sintácticamente partidas de ajedrez escritas en Notación Algebraica Estándar (SAN) y las representa visualmente como un árbol binario de jugadas por turnos.
 
 ## Funcionalidades 
 
