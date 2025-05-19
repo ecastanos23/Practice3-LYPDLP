@@ -28,17 +28,16 @@ Detecta y reporta movimientos inválidos con mensajes descriptivos.
 
 ## Estructura del proyecto
 /practica_III/
-│── chess_parser.py       # Lógica principal del analizador
+│── chess_parser.py       # Clases principales ChessMove, ChessTurn y ChessGame
 
-│── chess_tree.py         # Implementación del árbol binario
+│── chess_tree.py         # Clase ChessTreeVisualizer
 
-│── chess_gui.py          # Interfaz gráfica con PyQt
+│── chess_gui.py          # Clase MainWindow (interfaz gráfica)
 
-│── test_games/           # Ejemplos de partidas para prueba
-
+│── test_games/           # Ejemplos de partidas
 │   ├── valid_game.san
-
 │   └── invalid_game.san
+└── README.md
 
 └── README.md
 
