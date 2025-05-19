@@ -29,11 +29,17 @@ Detecta y reporta movimientos inválidos con mensajes descriptivos.
 ## Estructura del proyecto
 /practica_III/
 │── chess_parser.py       # Lógica principal del analizador
+
 │── chess_tree.py         # Implementación del árbol binario
+
 │── chess_gui.py          # Interfaz gráfica con PyQt
+
 │── test_games/           # Ejemplos de partidas para prueba
+
 │   ├── valid_game.san
+
 │   └── invalid_game.san
+
 └── README.md
 
 ## Gramática implementada 
