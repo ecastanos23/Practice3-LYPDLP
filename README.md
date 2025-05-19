@@ -76,7 +76,7 @@ Detecta y reporta movimientos inválidos con mensajes descriptivos.
 - Estudiante 2: Jerónimo Contreras. 
 
 ## Video
-  
+  https://eafit-my.sharepoint.com/:v:/g/personal/ecastanos_eafit_edu_co/ER3FXy7ZcdBJj8YkFLXfGCoBT3LTKdcGXg4y92cIhE_pbg?email=anarvae1%40eafit.edu.co&e=Eesz6m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
