@@ -8,7 +8,7 @@ from PyQt5.QtGui import QFont, QBrush, QColor, QPainter, QPen
 from chess_parser import ChessGame # type: ignore
 from chess_tree import ChessTreeVisualizer # type: ignore
 
-#Abre la ventana dela aplicación
+#Abre la ventana de la aplicación
 class MainWindow(QMainWindow):
    
     def __init__(self):
