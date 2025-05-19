@@ -1,6 +1,6 @@
 # modulo para trabajar con expresiones regulares
 import re
-# modulo para trabajar con la interfaz grafica
+
 
 #Clase para representar y validar un movimiento de ajedrez
 class ChessMove:
