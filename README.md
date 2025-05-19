@@ -44,12 +44,19 @@ Detecta y reporta movimientos inválidos con mensajes descriptivos.
 
 ## Gramática implementada 
 <partida> ::= { <turno> }
+
 <turno> ::= <numero_turno> "." <jugada_blanca> [<jugada_negra>]
+
 <jugada> ::= <enroque> | <movimiento_pieza> | <movimiento_peon>
+
 <enroque> ::= "O-O" | "O-O-O"
+
 <movimiento_pieza> ::= <pieza> <desambiguacion>? <captura>? <casilla>
+
 <movimiento_peon> ::= <peon_captura> | <peon_avance>
+
 <pieza> ::= "K" | "Q" | "R" | "B" | "N"
+
 <casilla> ::= <letra><numero>
 
 ## Ejemplo de uso
